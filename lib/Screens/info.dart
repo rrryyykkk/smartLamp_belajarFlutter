@@ -12,7 +12,7 @@ class InfoScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Center(child: Image.asset('asset/smatlamp.png', width: 100)),
+              Center(child: Image.asset('assets/smartLamp.png', width: 100)),
               SizedBox(
                 height: 20,
               ),
